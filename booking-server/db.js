@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-let { MONGO_URL } = process.env
+let MONGO_URL = process.env
 
 mongoose.connect(MONGO_URL, {useNewUrlParser: true, useUnifiedTopology: true})
 
