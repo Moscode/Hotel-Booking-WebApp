@@ -17,7 +17,7 @@ useEffect(()=>{
 },[])
   return (
     <div>
-        <h1>We have a total of {rooms}</h1>
+        <h1>We have a total of {rooms} rooms</h1>
     </div>
   )
 }
