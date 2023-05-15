@@ -7,6 +7,6 @@ const dbConfig = require('./db')
 
 app.use('/api/v1/rooms', roomsRoute)
 
-const port = process.env.port || 5001
+const port = process.env.port || 5500
 
 app.listen(port, () => console.log(`Server running on port ${port}`))
