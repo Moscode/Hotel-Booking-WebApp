@@ -26,6 +26,5 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "vite": "^4.3.2"
-  },
-  'proxy':'https://moscode-fantastic-cod-w99vvrrwxg739gv4-5001.preview.app.github.dev'
+  }
 }
